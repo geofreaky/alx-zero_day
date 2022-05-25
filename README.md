@@ -1,1 +1,1 @@
-My first readme
+Editing from git only for this project
